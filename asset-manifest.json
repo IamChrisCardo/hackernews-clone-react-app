@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hacker-news-clone-react-app/static/css/main.a926b3d5.css",
+    "main.js": "/hacker-news-clone-react-app/static/js/main.bd3602ea.js",
+    "index.html": "/hacker-news-clone-react-app/index.html",
+    "main.a926b3d5.css.map": "/hacker-news-clone-react-app/static/css/main.a926b3d5.css.map",
+    "main.bd3602ea.js.map": "/hacker-news-clone-react-app/static/js/main.bd3602ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a926b3d5.css",
+    "static/js/main.bd3602ea.js"
+  ]
+}
